@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClearAllToDoListAtOnce</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>631de71d-158c-4200-ab30-4cd226d0f5e6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8faba786-c08f-4ca0-938f-e2c194e7a57d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'DevTasks,QATasks,UATTasks'</defaultValue>
+      <description></description>
+      <id>8faba786-c08f-4ca0-938f-e2c194e7a57d</id>
+      <masked>false</masked>
+      <name>tasks</name>
+   </variable>
+</TestCaseEntity>

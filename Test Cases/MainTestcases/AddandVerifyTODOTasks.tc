@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddandVerifyTODOTasks</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e203e8c0-b0f4-4614-ad2d-a8efb11c6ba9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a228b102-2537-4996-9ade-4b46e411bf4b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'DevTasks,QATasks,UATTasks'</defaultValue>
+      <description></description>
+      <id>a228b102-2537-4996-9ade-4b46e411bf4b</id>
+      <masked>false</masked>
+      <name>tasks</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FilterTasks</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e7f69db-d636-4c9d-9ed5-d5d425521406</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6fb5e0ef-352f-4c7c-bdc4-06767fa98887</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e1869f76-f149-4aaf-8c85-f29f54beaf08</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'DevTasks,QATasks,UATTasks,ProdTasks'</defaultValue>
+      <description></description>
+      <id>6fb5e0ef-352f-4c7c-bdc4-06767fa98887</id>
+      <masked>false</masked>
+      <name>tasks</name>
+   </variable>
+   <variable>
+      <defaultValue>'QATasks,DevTasks'</defaultValue>
+      <description></description>
+      <id>e1869f76-f149-4aaf-8c85-f29f54beaf08</id>
+      <masked>false</masked>
+      <name>completedTasks</name>
+   </variable>
+</TestCaseEntity>

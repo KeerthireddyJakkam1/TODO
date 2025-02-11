@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletedTasks</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a089c0ea-b69c-4286-8af9-d2a5252bc44a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>81de578b-cbb2-4356-bc17-be01f69d84d9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>81de578b-cbb2-4356-bc17-be01f69d84d9</id>
+      <masked>false</masked>
+      <name>completedTasks</name>
+   </variable>
+</TestCaseEntity>

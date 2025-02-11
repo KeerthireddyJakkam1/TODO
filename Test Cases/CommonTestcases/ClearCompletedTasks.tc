@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClearCompletedTasks</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a06514f6-08e6-49d3-995e-328c9a85a5bf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>da0fc514-6329-4858-856d-49b60583539a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'QATasks'</defaultValue>
+      <description></description>
+      <id>da0fc514-6329-4858-856d-49b60583539a</id>
+      <masked>false</masked>
+      <name>completedTasks</name>
+   </variable>
+</TestCaseEntity>
