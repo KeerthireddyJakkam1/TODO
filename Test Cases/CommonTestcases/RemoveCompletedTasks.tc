@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>ClearCompletedTasks</name>
+   <name>RemoveCompletedTasks</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>a06514f6-08e6-49d3-995e-328c9a85a5bf</testCaseGuid>

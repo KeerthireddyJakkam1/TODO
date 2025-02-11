@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>FilterTasks</name>
+   <name>Scenario4_Clear Or Remove and Verify the Completed Tasks</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>6e7f69db-d636-4c9d-9ed5-d5d425521406</testCaseGuid>
+   <testCaseGuid>d3c1f5e9-1f8f-40d4-8818-806e20f8db0c</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>6fb5e0ef-352f-4c7c-bdc4-06767fa98887</variableId>
+      <variableId>4509cf11-c574-42a3-8683-21d84ba45416</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>e1869f76-f149-4aaf-8c85-f29f54beaf08</variableId>
+      <variableId>6d657c0f-88ee-4010-b580-17fa31692c86</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'DevTasks,QATasks,UATTasks,ProdTasks'</defaultValue>
+      <defaultValue>'DevTasks,QATasks,UATTasks'</defaultValue>
       <description></description>
-      <id>6fb5e0ef-352f-4c7c-bdc4-06767fa98887</id>
+      <id>4509cf11-c574-42a3-8683-21d84ba45416</id>
       <masked>false</masked>
       <name>tasks</name>
    </variable>
    <variable>
-      <defaultValue>'QATasks,DevTasks'</defaultValue>
+      <defaultValue>'QATasks,UATTasks'</defaultValue>
       <description></description>
-      <id>e1869f76-f149-4aaf-8c85-f29f54beaf08</id>
+      <id>6d657c0f-88ee-4010-b580-17fa31692c86</id>
       <masked>false</masked>
       <name>completedTasks</name>
    </variable>

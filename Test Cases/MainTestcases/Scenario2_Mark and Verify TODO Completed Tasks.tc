@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>ClearAndVerifyCompletedTasks</name>
+   <name>Scenario2_Mark and Verify TODO Completed Tasks</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>d3c1f5e9-1f8f-40d4-8818-806e20f8db0c</testCaseGuid>
+   <testCaseGuid>833121d2-f2ac-4d9c-a768-95c20783065c</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>4509cf11-c574-42a3-8683-21d84ba45416</variableId>
+      <variableId>e4591f9c-5497-48a2-ae81-7c992a1f71e2</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>6d657c0f-88ee-4010-b580-17fa31692c86</variableId>
+      <variableId>5e8d43a9-07da-4e82-b225-b4956d15848f</variableId>
    </variableLinks>
    <variable>
       <defaultValue>'DevTasks,QATasks,UATTasks'</defaultValue>
       <description></description>
-      <id>4509cf11-c574-42a3-8683-21d84ba45416</id>
+      <id>e4591f9c-5497-48a2-ae81-7c992a1f71e2</id>
       <masked>false</masked>
       <name>tasks</name>
    </variable>
    <variable>
-      <defaultValue>'QATasks,UATTasks'</defaultValue>
+      <defaultValue>'QATasks'</defaultValue>
       <description></description>
-      <id>6d657c0f-88ee-4010-b580-17fa31692c86</id>
+      <id>5e8d43a9-07da-4e82-b225-b4956d15848f</id>
       <masked>false</masked>
       <name>completedTasks</name>
    </variable>

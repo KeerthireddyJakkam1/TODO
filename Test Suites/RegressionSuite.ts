@@ -15,7 +15,7 @@
       <guid>a2290b06-c73e-4ddc-9ea7-a7b9037b6cb9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/MainTestcases/AddandVerifyTODOTasks</testCaseId>
+      <testCaseId>Test Cases/MainTestcases/Scenario1_Add and Verify New TODO Tasks</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -28,7 +28,7 @@
       <guid>ab9e3da8-deb9-4c99-9f3b-ea00cce5b0aa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/MainTestcases/MarkandVerifyCompletedTasks</testCaseId>
+      <testCaseId>Test Cases/MainTestcases/Scenario2_Mark and Verify TODO Completed Tasks</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -44,10 +44,29 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
+      <guid>d7b0226f-97f8-4776-b020-465298b1de00</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MainTestcases/Scenario3_Filter tasks based on Completed and Active Status</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6fb5e0ef-352f-4c7c-bdc4-06767fa98887</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e1869f76-f149-4aaf-8c85-f29f54beaf08</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
       <guid>4e68bcc6-15c6-4047-860a-d2f73acec640</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/MainTestcases/ClearAndVerifyCompletedTasks</testCaseId>
+      <testCaseId>Test Cases/MainTestcases/Scenario4_Clear Or Remove and Verify the Completed Tasks</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -66,32 +85,13 @@
       <guid>5ce735c4-bf06-4f81-b073-6ec97bc1f6ab</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/MainTestcases/ClearAllToDoListAtOnce</testCaseId>
+      <testCaseId>Test Cases/MainTestcases/Scenario5_Clear All and Verify ToDo List AtOnce</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
          <variableId>8faba786-c08f-4ca0-938f-e2c194e7a57d</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>d7b0226f-97f8-4776-b020-465298b1de00</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/MainTestcases/FilterTasks</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>6fb5e0ef-352f-4c7c-bdc4-06767fa98887</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>e1869f76-f149-4aaf-8c85-f29f54beaf08</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

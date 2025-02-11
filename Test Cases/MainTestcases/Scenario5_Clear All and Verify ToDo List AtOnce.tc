@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>AddandVerifyTODOTasks</name>
+   <name>Scenario5_Clear All and Verify ToDo List AtOnce</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>e203e8c0-b0f4-4614-ad2d-a8efb11c6ba9</testCaseGuid>
+   <testCaseGuid>631de71d-158c-4200-ab30-4cd226d0f5e6</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>a228b102-2537-4996-9ade-4b46e411bf4b</variableId>
+      <variableId>8faba786-c08f-4ca0-938f-e2c194e7a57d</variableId>
    </variableLinks>
    <variable>
       <defaultValue>'DevTasks,QATasks,UATTasks'</defaultValue>
       <description></description>
-      <id>a228b102-2537-4996-9ade-4b46e411bf4b</id>
+      <id>8faba786-c08f-4ca0-938f-e2c194e7a57d</id>
       <masked>false</masked>
       <name>tasks</name>
    </variable>

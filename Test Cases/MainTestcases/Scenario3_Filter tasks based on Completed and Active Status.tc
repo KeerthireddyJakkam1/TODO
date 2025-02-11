@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>MarkandVerifyCompletedTasks</name>
+   <name>Scenario3_Filter tasks based on Completed and Active Status</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>833121d2-f2ac-4d9c-a768-95c20783065c</testCaseGuid>
+   <testCaseGuid>6e7f69db-d636-4c9d-9ed5-d5d425521406</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>e4591f9c-5497-48a2-ae81-7c992a1f71e2</variableId>
+      <variableId>6fb5e0ef-352f-4c7c-bdc4-06767fa98887</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>5e8d43a9-07da-4e82-b225-b4956d15848f</variableId>
+      <variableId>e1869f76-f149-4aaf-8c85-f29f54beaf08</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'DevTasks,QATasks,UATTasks'</defaultValue>
+      <defaultValue>'DevTasks,QATasks,UATTasks,ProdTasks'</defaultValue>
       <description></description>
-      <id>e4591f9c-5497-48a2-ae81-7c992a1f71e2</id>
+      <id>6fb5e0ef-352f-4c7c-bdc4-06767fa98887</id>
       <masked>false</masked>
       <name>tasks</name>
    </variable>
    <variable>
-      <defaultValue>'QATasks'</defaultValue>
+      <defaultValue>'QATasks,DevTasks'</defaultValue>
       <description></description>
-      <id>5e8d43a9-07da-4e82-b225-b4956d15848f</id>
+      <id>e1869f76-f149-4aaf-8c85-f29f54beaf08</id>
       <masked>false</masked>
       <name>completedTasks</name>
    </variable>
